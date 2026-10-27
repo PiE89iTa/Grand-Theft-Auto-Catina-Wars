@@ -1,6 +1,9 @@
 # Grand-Theft-Auto-Catina-Wars
  Un web game fan-made non profit e parodistico ispirato a GTA, ambientato tra le strade di Aci Catena, cittadina siciliana. Immergiti con Salvatore Catena, detto Turi Catina, nel mondo della malavita catenota! Creato a scopo puramente ludico e creativo.
 
+ <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/226093fc-4611-4269-968c-3686024bd83f" />
+
+
  # Grand Theft Auto: Catina Wars
 
 Un videogioco per browser amatoriale e parodistico ambientato ad Aci Catena. 
